@@ -21,7 +21,7 @@ The **CGPA Calculator** is a simple web application that allows students to calc
 - **JavaScript**: For CGPA calculation and interactivity.
 
 ## How to Use
-1. Visit the live website: [GitHub Pages Link]([https://<your-username>.github.io/cgpa-calculator/](https://izz7803.github.io/CGPA-Calculator../))
+1. Visit the live website: [GitHub Pages Link](https://izz7803.github.io/CGPA-Calculator../)
 2. Input grades and credits for your courses:
    - Example: Grade `3.5`, Credits `4`.
 3. Add more subjects by clicking the **Add Subject** button.
